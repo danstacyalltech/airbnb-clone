@@ -31,7 +31,7 @@ const Search = () => {
 						px-6
 					"
 				>
-					Anywhere feature 1 branch test
+					Anywhere
 				</div>
 				<div
 					className="
